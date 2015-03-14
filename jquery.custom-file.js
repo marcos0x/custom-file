@@ -13,8 +13,8 @@
 			button_tag: 'span',
 			field_text: '',
 			field_text_loading: '',
-			init: undefined,
-			change: undefined
+			init: void(0),
+			change: void(0)
 		};
 
 		var settings = $.extend(true, defaults, params);
